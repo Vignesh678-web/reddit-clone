@@ -1,0 +1,2 @@
+root: C:\Users\Vignesh Manikandan\reddit-clone\nvm
+path: C:\nvm4w\nodejs
