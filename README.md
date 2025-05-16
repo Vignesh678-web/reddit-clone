@@ -92,14 +92,14 @@ pnpm dev
 - Deploy Sanity Studio:
 -  sanity deploy
 
-[🔗] ### Setting up Clerk
+ ### Setting up Clerk
 
 - Create a Clerk application
 - Configure authentication providers
 - Set up redirect URLs
 - Add environment variables
 
-[🔗] ### Core Technologies
+ ### Core Technologies
 
 - Next.js 15
 - TypeScript
