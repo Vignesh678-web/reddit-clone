@@ -45,18 +45,18 @@ Content Filtering.
 * 📶 Clean Interface Design Using Radix UI
 * 🔍 Intutive Search Functionality
 
-[🔗]  ### Getting Started
+### Getting Started
 
-[🔗]  ### Prequestion
+### Prequestion
 
 * Node Js
 * Sanity Account
 * Clerk Account
 * Open AI API Key (Content Moderation)
 
-[🔗] ### Enviornment Variables
+### Enviornment Variables
 
-[Create a .env.local file with:]
+Create a .env.local file with:
 
 # Sanity
 NEXT_PUBLIC_SANITY_PROJECT_ID=your-project-id
