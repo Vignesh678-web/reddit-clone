@@ -110,4 +110,10 @@ pnpm dev
 - Radix UI
 - Lucide Icons
 
+## Deployment
+- Reddit Deployment
+https://reddit-clone-jnha6qzwm-vignesh-manikandans-projects-72d5494b.vercel.app/
+- Database
+   
+
 
